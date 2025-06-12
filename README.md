@@ -5,7 +5,7 @@ Welcome to the **Mini Python Games Repository!** This collection showcases begin
 
 ## 🕹 What's Inside?
 This repository features:
-- **Classic text-based games**: , Tic-Tac-Toe, and Number Guessing.
+- **Classic text-based games**:GuessThePair,RockPaperScissor , and Number Guessing.
 - **Interactive terminal games**: Using `input()`, loops, and conditionals.
 - **Logic and strategy games**: With beginner-friendly algorithms and data structures.
 
